@@ -1,0 +1,119 @@
+#Elementa philosophica: containing chiefly, Noetica, or things relating to the mind or understanding: and Ethica, or things relating to the moral behaviour.#
+
+##Johnson, Samuel, 1696-1772.##
+Elementa philosophica: containing chiefly, Noetica, or things relating to the mind or understanding: and Ethica, or things relating to the moral behaviour.
+Johnson, Samuel, 1696-1772.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/N05/N05418.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/N05/N05418.epub)
+
+**Availability**
+
+This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+
+**Major revisions**
+
+1. __2008-09__ __TCP__ *Assigned for keying and markup*
+1. __2008-10__ __SPi Global (Manila)__ *Keyed and coded from Readex/Newsbank page images*
+1. __2009-03__ __Olivia Bottum__ *Sampled and proofread*
+1. __2009-03__ __Olivia Bottum__ *Text and markup reviewed and edited*
+1. __2009-09__ __pfs.__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+**Types of content**
+
+  * There are 10 **verse** lines!
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 17 **ommitted** fragments! 
+ @__reason__ (17) : foreign (6), illegible: indecipherable (11)  •  @__extent__ (11) : 2 letters (3), 1 word (3), 3 letters (1), 4 letters (1), 1 letter (3)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|Latin-1 Supplement|è§â|232 167 226|
+|Latin Extended-A|ſ|383|
+|Greek|ΩΝΟΤΕΑΓΘΚΛ|937 925 927 932 917 913 915 920 922 923|
+|GreekandCoptic|ΩΝΟΤΕΑΓΘΚΛ|937 925 927 932 917 913 915 920 922 923|
+|General Punctuation|—•|8212 8226|
+|Mathematical Operators|∶∷|8758 8759|
+|Geometric Shapes|◊▪|9674 9642|
+|CJKSymbolsandPunctuation|〈〉|12296 12297|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__author__|7||
+|2.|__availability__|1||
+|3.|__biblFull__|1||
+|4.|__change__|5||
+|5.|__date__|7| @__when__ (1) : 2011-05 (1)|
+|6.|__editorialDecl__|1||
+|7.|__extent__|2||
+|8.|__idno__|6| @__type__ (6) : DLPS (1), TCP (1), STC (1), NOTIS (1), IMAGE-SET (1), EVANS-CITATION (1)|
+|9.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|10.|__label__|5||
+|11.|__langUsage__|1||
+|12.|__language__|1| @__ident__ (1) : eng (1)|
+|13.|__listPrefixDef__|1||
+|14.|__note__|7||
+|15.|__notesStmt__|2||
+|16.|__p__|11||
+|17.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|18.|__projectDesc__|1||
+|19.|__pubPlace__|2||
+|20.|__publicationStmt__|2||
+|21.|__publisher__|2||
+|22.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|23.|__seriesStmt__|1||
+|24.|__sourceDesc__|1||
+|25.|__term__|4||
+|26.|__textClass__|1||
+|27.|__title__|3||
+|28.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__bibl__|8||
+|2.|__body__|2||
+|3.|__closer__|1||
+|4.|__desc__|17||
+|5.|__div__|48| @__type__ (48) : title_page (3), half_title (2), dedication (1), to_the_reader (2), errata (1), part (6), introduction (3), table (2), table_of_contents (2), chapter (21), text (2), summary (1), meditation (1), prayer (1)  •  @__n__ (25) : 1 (6), 2 (6), 3 (4), 4 (3), 5 (3), 6 (3)|
+|6.|__epigraph__|1||
+|7.|__front__|2||
+|8.|__g__|1731| @__ref__ (1731) : char:EOLhyphen (1727), char:EOLunhyphen (1), char:punc (3)|
+|9.|__gap__|17| @__reason__ (17) : foreign (6), illegible: indecipherable (11)  •  @__extent__ (11) : 2 letters (3), 1 word (3), 3 letters (1), 4 letters (1), 1 letter (3)|
+|10.|__head__|43||
+|11.|__hi__|2803||
+|12.|__item__|136||
+|13.|__l__|10||
+|14.|__label__|9||
+|15.|__list__|27||
+|16.|__note__|120| @__n__ (37) : * (32), † (4), ‖ (1)  •  @__place__ (120) : bottom (37), margin (83)|
+|17.|__p__|310| @__n__ (255) : 1 (19), 2 (19), 3 (19), 4 (18), 5 (18), 6 (18), 7 (16), 8 (16), 9 (13), 10 (12), 11 (10), 12 (10), 13 (9), 14 (9), 15 (7), 16 (7), 17 (5), 18 (4), 19 (3), 20 (3), 21 (3), 22 (3), 23 (3), 24 (3), 25 (3), 26 (2), 27 (2), 28 (1)|
+|18.|__pb__|237| @__facs__ (237) : tcp:006859_0000_102A8668E9316130 (1), tcp:006859_0001_102A866BE74ACAC8 (1), tcp:006859_0002_102A866DEE7E38C0 (1), tcp:006859_0003_102A86714BD32920 (1), tcp:006859_0004_102A8673D71E5D90 (1), tcp:006859_0005_102A867565D0BD88 (1), tcp:006859_0006_102A867873A8DE68 (1), tcp:006859_0007_102A867A174244F8 (1), tcp:006859_0008_102A867C5BE73040 (1), tcp:006859_0009_102A867F3B28A358 (1), tcp:006859_0010_102A8680D2CBD808 (1), tcp:006859_0011_102A86834681F078 (1), tcp:006859_0012_102A868646396DF8 (1), tcp:006859_0013_102A8687D35EE0A8 (1), tcp:006859_0014_102A8689C8126030 (1), tcp:006859_0015_102A868E5F5D1168 (1), tcp:006859_0016_102A86924BA20318 (1), tcp:006859_0017_102A869629F4F398 (1), tcp:006859_0018_102A869BF7BD2A40 (1), tcp:006859_0019_102A869FF4B95850 (1), tcp:006859_0020_102A86B330785EF8 (1), tcp:006859_0021_102A86B73706B738 (1), tcp:006859_0022_102A86BBE309F880 (1), tcp:006859_0023_102A86C39EC51728 (1), tcp:006859_0024_102A86C8A7209618 (1), tcp:006859_0025_102A86D10D7C4540 (1), tcp:006859_0026_102A86D4E50470C0 (1), tcp:006859_0027_102A86D953BF30E8 (1), tcp:006859_0028_102A86E2DB950130 (1), tcp:006859_0029_102A86E99B2F3698 (1), tcp:006859_0030_102A86F3605ADA28 (1), tcp:006859_0031_102A86F82DDCB900 (1), tcp:006859_0032_102A86FE9B0D3778 (1), tcp:006859_0033_102A870281B23FF8 (1), tcp:006859_0034_102A8707EE3FCC48 (1), tcp:006859_0035_102A870BD6CE45A8 (1), tcp:006859_0036_102A871089FE1EE8 (1), tcp:006859_0037_102A8712D8F2F680 (1), tcp:006859_0038_102A87181A955FC8 (1), tcp:006859_0039_102A871D86B58F50 (1), tcp:006859_0040_102A8722B75D6E70 (1), tcp:006859_0041_102A87285ADC28E0 (1), tcp:006859_0042_102A872C9A330418 (1), tcp:006859_0043_102A87328677F9B0 (1), tcp:006859_0044_102A8734161EC7E0 (1), tcp:006859_0045_102A87405A2DA900 (1), tcp:006859_0046_102A87446E8B7F30 (1), tcp:006859_0047_102A874814F43E18 (1), tcp:006859_0048_102A874A05FA3E30 (1), tcp:006859_0049_102A874CB52AF258 (1), tcp:006859_0050_102A8750A9A5B288 (1), tcp:006859_0051_102A87539A8104D8 (1), tcp:006859_0052_102A875739106600 (1), tcp:006859_0053_102A875A6938A490 (1), tcp:006859_0054_102A875E745C05B0 (1), tcp:006859_0055_102A8760FA2289B0 (1), tcp:006859_0056_102A876367807128 (1), tcp:006859_0057_102A8765CCD33BD0 (1), tcp:006859_0058_102A876A5E75BEA8 (1), tcp:006859_0059_102A876F9B97B880 (1), tcp:006859_0060_102A8772215DE690 (1), tcp:006859_0061_102A877A96D91F00 (1), tcp:006859_0062_102A878279F79598 (1), tcp:006859_0063_102A8786B9603B80 (1), tcp:006859_0064_102A878B4942A6B8 (1), tcp:006859_0065_102A878F4B794568 (1), tcp:006859_0066_102A879A4D10A678 (1), tcp:006859_0067_102A87A34C5E0400 (1), tcp:006859_0068_102A87A7EF472640 (1), tcp:006859_0069_102A87AC000B13F0 (1), tcp:006859_0070_102A87B1A1460930 (1), tcp:006859_0071_102A87BA433E0460 (1), tcp:006859_0072_102A87C11BEB5AA8 (1), tcp:006859_0073_102A87C4823BD2B8 (1), tcp:006859_0074_102A87CDA99A7F58 (1), tcp:006859_0075_102A87D226021270 (1), tcp:006859_0076_102A87DEF090DC80 (1), tcp:006859_0077_102A87E6725C5968 (1), tcp:006859_0078_102A87EBC3920830 (1), tcp:006859_0079_102A87F348242AE0 (1), tcp:006859_0080_102A87F9310D3C58 (1), tcp:006859_0081_102A880C180A6F28 (1), tcp:006859_0082_102A88124AF6BB70 (1), tcp:006859_0083_102A88199BED0088 (1), tcp:006859_0084_102A881BD821B048 (1), tcp:006859_0085_102A88240C815EC8 (1), tcp:006859_0086_102A88259D0C66C0 (1), tcp:006859_0087_102A882A0810E160 (1), tcp:006859_0088_102A882F54964380 (1), tcp:006859_0089_102A88318D22DE88 (1), tcp:006859_0090_102A88349378B9D8 (1), tcp:006859_0091_102A883629491398 (1), tcp:006859_0092_102A883866C01EC8 (1), tcp:006859_0093_102A8839FAA11C08 (1), tcp:006859_0094_102A883CC0340C38 (1), tcp:006859_0095_102AABA9D3DF3FF0 (1), tcp:006859_0096_102AABAB9E221C80 (1), tcp:006859_0097_102AABAD2A2FF510 (1), tcp:006859_0098_102AABB057C56B30 (1), tcp:006859_0099_102AABB212A4E360 (1), tcp:006859_0100_102AABB46B5790D8 (1), tcp:006859_0101_102AABB6B0032B10 (1), tcp:006859_0102_102AABBA25562AA0 (1), tcp:006859_0103_102AABBC8CF127F8 (1), tcp:006859_0104_102AABBE4F1B5AF8 (1), tcp:006859_0105_102AABC25C8F33F8 (1), tcp:006859_0106_102AABC4B3537338 (1), tcp:006859_0107_102AABC7246E1490 (1), tcp:006859_0108_102AABC9D34A5AC0 (1), tcp:006859_0109_102AABCE109836F8 (1), tcp:006859_0110_102AABD082A1A520 (1), tcp:006859_0111_102AABD219F49B88 (1), tcp:006859_0112_102AABD3AFF3DD18 (1), tcp:006859_0113_102AABD897EF9040 (1), tcp:006859_0114_102AABDA1FA666D8 (1), tcp:006859_0115_102AABDBB8A77E88 (1), tcp:006859_0116_102AABDFE3F34EE0 (1), tcp:006859_0117_102AABE2535C9AA0 (1), tcp:006859_0118_102AABE4B7668A78 (1), tcp:006859_0119_102AABE6C8003F90 (1), tcp:006859_0120_102AABE915A3D738 (1), tcp:006859_0121_102AABED3AC808E0 (1), tcp:006859_0122_102AABEF91FEA0E0 (1), tcp:006859_0123_102AABF16533CDC0 (1), tcp:006859_0124_102AABF3DCDE26E8 (1), tcp:006859_0125_102AABF71D603BB0 (1), tcp:006859_0126_102AABF8A5329158 (1), tcp:006859_0127_102AABFA597FE4A0 (1), tcp:006859_0128_102AABFEB0A7CF80 (1), tcp:006859_0129_102AAC0040DEE680 (1), tcp:006859_0130_102AAC054FA80E80 (1), tcp:006859_0131_102AAC072F091788 (1), tcp:006859_0132_102AAC099C513CB0 (1), tcp:006859_0133_102AAC0C1CD41C98 (1), tcp:006859_0134_102AAC0E60744DC8 (1), tcp:006859_0135_102AAC10F6CD9A20 (1), tcp:006859_0136_102AAC1562391BC0 (1), tcp:006859_0137_102AAC17CCF6DCE8 (1), tcp:006859_0138_102AAC1954083450 (1), tcp:006859_0139_102AAC1BD5477E98 (1), tcp:006859_0140_102AAC1D5C699710 (1), tcp:006859_0141_102AAC1FADDD2E30 (1), tcp:006859_0142_102AAC2205A92478 (1), tcp:006859_0143_102AAC2596C34540 (1), tcp:006859_0144_102AAC283B8D25D0 (1), tcp:006859_0145_102AAC2B99AA1180 (1), tcp:006859_0146_102AAC2EA05EBA58 (1), tcp:006859_0147_102A7B3A04AAC748 (1), tcp:006859_0148_102AAC302AB50390 (1), tcp:006859_0149_102AAC32A21F88E0 (1), tcp:006859_0150_102AAC35B3A177E0 (1), tcp:006859_0151_102AAC38349FC570 (1), tcp:006859_0152_102AAC3A0179FDA0 (1), tcp:006859_0153_102AAC3C7B897C50 (1), tcp:006859_0154_102AAC408AE53EE0 (1), tcp:006859_0155_102AAC4215275438 (1), tcp:006859_0156_102AAC43A8CE78E0 (1), tcp:006859_0157_102AAC46213918B0 (1), tcp:006859_0158_102AAC4A14C8C918 (1), tcp:006859_0159_102AAC4C6C65B518 (1), tcp:006859_0160_102AAC4DF391F720 (1), tcp:006859_0161_102AAC5084565618 (1), tcp:006859_0162_102AAC52EB85D498 (1), tcp:006859_0163_102AAC563AB45200 (1), tcp:006859_0164_102AAC58CAC62208 (1), tcp:006859_0165_102AAC5C6CCFA248 (1), tcp:006859_0166_102AAC5DF40B45D0 (1), tcp:006859_0167_102AAC6110503560 (1), tcp:006859_0168_102AAC6299EDF468 (1), tcp:006859_0169_102AAC64282A8C08 (1), tcp:006859_0170_102AAC685FB35370 (1), tcp:006859_0171_102AAC6AB16631C8 (1), tcp:006859_0172_102AAC6E32388588 (1), tcp:006859_0173_102AAC70B74F5510 (1), tcp:006859_0174_102AAC740859B200 (1), tcp:006859_0175_102AAC7642C94990 (1), tcp:006859_0176_102AAC77F34CC830 (1), tcp:006859_0177_102AAC7A1F94B780 (1), tcp:006859_0178_102AAC7CE7641758 (1), tcp:006859_0179_102AAC7E6EA87158 (1), tcp:006859_0180_102AAC809EC968A0 (1), tcp:006859_0181_102AAC82318F9770 (1), tcp:006859_0182_102AAC84FB368220 (1), tcp:006859_0183_102AAC868780D660 (1), tcp:006859_0184_102AAC8956CAABC8 (1), tcp:006859_0185_102AAC8AE1D197C0 (1), tcp:006859_0186_102AAC8F051A2ED0 (1), tcp:006859_0187_102AAC908B141328 (1), tcp:006859_0188_102AAC923ADB13E0 (1), tcp:006859_0189_102AAC951EC9BE90 (1), tcp:006859_0190_102AAC98D477A790 (1), tcp:006859_0191_102AAC9A59EF7720 (1), tcp:006859_0192_102AAC9BE30D9A30 (1), tcp:006859_0193_102AAC9E20FC8CB0 (1), tcp:006859_0194_102AACA0F9509B80 (1), tcp:006859_0195_102AACA3C792DBA8 (1), tcp:006859_0196_102AACA615F73AE0 (1), tcp:006859_0197_102AACA79EC7C6A8 (1), tcp:006859_0198_102AACAB16995EB0 (1), tcp:006859_0199_102AACAD5E7B5C28 (1), tcp:006859_0200_102AACAEF8DE4DC8 (1), tcp:006859_0201_102AACB130976078 (1), tcp:006859_0202_102AACB409094B20 (1), tcp:006859_0203_102AACB62A25C798 (1), tcp:006859_0204_102AACB7B29C4898 (1), tcp:006859_0205_102A7B81818BD7F0 (1), tcp:006859_0206_102AACB9ABE2A268 (1), tcp:006859_0207_102A7B866466C960 (1), tcp:006859_0208_102AACBC857AF058 (1), tcp:006859_0209_102AACBEB45A63B8 (1), tcp:006859_0210_102AACC19F9F5640 (1), tcp:006859_0211_102AACC36B3E9E20 (1), tcp:006859_0212_102AACC6EBE44460 (1), tcp:006859_0213_102AACC90EC8D210 (1), tcp:006859_0214_102AACCB360909D0 (1), tcp:006859_0215_102AACCDEF450F18 (1), tcp:006859_0216_102AACD012660D70 (1), tcp:006859_0217_102AACD2E5159B48 (1), tcp:006859_0218_102AACD46CB66D28 (1), tcp:006859_0219_102AACD6117F4F20 (1), tcp:006859_0220_102AACD9BA2A1360 (1), tcp:006859_0221_102AACDBFB5D6728 (1), tcp:006859_0222_102AACDDA7533ED8 (1), tcp:006859_0223_102AACE03AF54EB8 (1), tcp:006859_0224_102AACE1C7761090 (1), tcp:006859_0225_102AACE5402F8BE0 (1), tcp:006859_0226_102AACE79C945C48 (1), tcp:006859_0227_102AACE9525632D8 (1), tcp:006859_0228_102AACEB7853E048 (1), tcp:006859_0229_102AACEF6ACD69A8 (1), tcp:006859_0230_102AACF0F5E42098 (1), tcp:006859_0231_102AACF33772F628 (1), tcp:006859_0232_102AACF6C3895D70 (1), tcp:006859_0233_102AACF849B63C90 (1), tcp:006859_0234_102AACFAE9FADB50 (1), tcp:006859_0235_102A7B3873A2F6B0 (1), tcp:006859_0236_102AACFF4F43BED0 (1)  •  @__rendition__ (17) : simple:additions (17)  •  @__n__ (227) : vii (2), viii (1), ix (1), x (1), xi (1), xii (1), xiii (1), xiv (1), xv (1), xvi (1), xvii (1), xviii (1), xxix (1), xx (1), xxi (1), xxii (1), xxiii (1), xxiv (1), 1 (2), 2 (2), 3 (2), 4 (2), 5 (2), 6 (2), 7 (2), 8 (2), 9 (2), 10 (2), 11 (2), 12 (2), 13 (2), 14 (2), 15 (2), 16 (2), 17 (2), 18 (2), 19 (2), 20 (2), 21 (2), 22 (2), 23 (2), 24 (2), 25 (2), 26 (2), 27 (2), 28 (2), 29 (2), 30 (2), 31 (2), 32 (2), 33 (2), 34 (2), 35 (2), 36 (2), 37 (2), 38 (2), 39 (2), 40 (2), 41 (2), 42 (2), 43 (2), 44 (2), 45 (2), 46 (2), 47 (2), 48 (2), 49 (2), 50 (2), 51 (2), 52 (2), 53 (2), 54 (2), 55 (2), 56 (2), 57 (2), 58 (2), 59 (2), 60 (2), 61 (2), 62 (2), 63 (2), 64 (2), 65 (2), 66 (2), 67 (2), 68 (2), 69 (2), 70 (2), 71 (2), 72 (2), 73 (2), 74 (2), 75 (2), 76 (2), 77 (2), 78 (2), 79 (2), 80 (2), 81 (2), 82 (2), 83 (2), 84 (2), 85 (2), 86 (2), 87 (2), 88 (2), 89 (2), 90 (2), 91 (2), 92 (2), 93 (2), 94 (2), 95 (2), 96 (2), 97 (2), 98 (2), 99 (2), 100 (2), 101 (2), 102 (2), 103 (2), v (1), vi (1)|
+|19.|__q__|5||
+|20.|__signed__|1||
+|21.|__text__|2| @__xml:lang__ (2) : eng (0)|
+|22.|__trailer__|4||
